@@ -2,7 +2,7 @@
 
 ## Informações Acadêmicas
 
-- **Nome completo:** Gabriel Inocentini Spedini
+- **Nome completo:** Kalil Coutinho Inocentini
 - **Curso:** Ciências da Computação
 - **Disciplina:** Desenvolvimento de aplicações web
 - **Professor:** Eder
